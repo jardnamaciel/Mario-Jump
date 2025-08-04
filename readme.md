@@ -45,9 +45,11 @@ git clone https://github.com/jardnamaciel/Mario-Jump.git
 
 
 
-## Prévia do Jogo
-<p align="center>
-<img alt="marioJump" src=".github/Captura de tela 2025-08-04 164057.jpg whidt="100%">
+## 📷 Prévia do jogo
+
+<p align="center">
+  <img src=".github/preview.jpg" alt="Prévia do Mario Jump" width="600"/>
 </p>
+
 
 <p align="center"> Feito com 💙 por <a href="https://github.com/jardnamaciel" target="_blank">@jardnamaciel</a> </p> ```
