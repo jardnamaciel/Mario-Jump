@@ -39,7 +39,7 @@ Com visual retrô e mecânica dinâmica, o projeto foi criado para treinar habil
 
 ## 🚀 Como rodar o projeto
 
-```bash
+
 # Clone este repositório
 git clone https://github.com/jardnamaciel/Mario-Jump.git
 
@@ -52,4 +52,4 @@ git clone https://github.com/jardnamaciel/Mario-Jump.git
 </p>
 
 
-<p align="center"> Feito com 💙 por <a href="https://github.com/jardnamaciel" target="_blank">@jardnamaciel</a> </p> ```
+<p align="center"> Feito com 💙 por <a href="https://github.com/jardnamaciel" target="_blank">@jardnamaciel</a> </p>
